@@ -1,0 +1,20 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #0000ff;
+}
+
+.group {
+  transition: transform 1s;
+}
+
+.country {
+  fill: yellow;
+  stroke: black;
+  cursor: pointer;
+}
+
+.hovered {
+  fill: #ffb600;
+}
